@@ -75,4 +75,3 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 - **GitHub**: [tu_usuario](https://github.com/tu_usuario)
 
 ¡Gracias por usar el Generador de QR!
-```
