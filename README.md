@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de un README para tu aplicación de React con Vite que funciona como generador de códigos QR.
-
 ```markdown
 # Generador de QR
 
